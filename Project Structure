@@ -1,0 +1,15 @@
+**Focus:** End-to-End UI Automation, Page Navigation, Form Handling, and Assertion Assertions  
+**Tech Stack:** Python 3.10+, `pytest`, `pytest-playwright`
+
+### Project Structure
+```text
+ui-automation-suite/
+│
+├── tests/
+│   ├── __init__.py
+│   ├── test_login.py
+│   └── test_checkout_flow.py
+│
+├── .gitignore
+├── requirements.txt
+└── README.md
